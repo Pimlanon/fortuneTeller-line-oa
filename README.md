@@ -21,7 +21,7 @@ The LINE OA acts as a smart assistant that:
 - The tarot theme was chosen to demonstrate how conversational AI can enhance service experience and scheduling workflows.
 
 # Key Features
-## Tarot & Fortune Features**
+## Tarot & Fortune Features
 
 **Fortune Reading Service**
 
@@ -84,5 +84,6 @@ This project demonstrates:
 ## Demo
 
 https://github.com/user-attachments/assets/fdcbe052-1c10-43c2-9179-e2cb5643cfb1
+
 
 
